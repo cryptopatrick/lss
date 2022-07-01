@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aniara on </title>
+    <link>localhost/tags/aniara/</link>
+    <description>Recent content in Aniara on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 29 Jun 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="localhost/tags/aniara/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aniara Meets Locus at Nefertiti</title>
+      <link>localhost/posts/2022/06/aniara-meets-locus-at-nefertiti/</link>
+      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/posts/2022/06/aniara-meets-locus-at-nefertiti/</guid>
+      <description>aa In this post, I will introduce the key-value store concept and compare the features of some of the well known of this kind of databases. In its essence, a key-value store can be reduced to a database containing pairs of data in the form of {key:value}. To a key, a value is associated. Let&#39;s take some examples:
+ &amp;ldquo;John&amp;rdquo;:&amp;ldquo;+123456789&amp;rdquo; &amp;ldquo;12-34-5678&amp;rdquo;:&amp;ldquo;Jane&#39;s birth date&amp;rdquo;  Although the notion is quite simple to grasp, implementing a key-value store, not so much.</description>
+    </item>
+    
+  </channel>
+</rss>

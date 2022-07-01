@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on </title>
+    <link>localhost/tags/</link>
+    <description>Recent content in Tags on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 29 Jun 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="localhost/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aniara</title>
+      <link>localhost/tags/aniara/</link>
+      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/tags/aniara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Locus</title>
+      <link>localhost/tags/locus/</link>
+      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/tags/locus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nefertiti</title>
+      <link>localhost/tags/nefertiti/</link>
+      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/tags/nefertiti/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

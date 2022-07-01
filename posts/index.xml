@@ -1,0 +1,39 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on </title>
+        <link>localhost/posts/</link>
+        <description>Recent content in Posts on </description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;/a&gt;</copyright>
+        <lastBuildDate>Wed, 29 Jun 2022 00:00:00 +0000</lastBuildDate>
+        <atom:link href="localhost/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Aniara Meets Locus at Nefertiti</title>
+            <link>localhost/posts/2022/06/aniara-meets-locus-at-nefertiti/</link>
+            <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
+            
+            <guid>localhost/posts/2022/06/aniara-meets-locus-at-nefertiti/</guid>
+            <description>aa In this post, I will introduce the key-value store concept and compare the features of some of the well known of this kind of databases. In its essence, a key-value store can be reduced to a database containing pairs of data in the form of {key:value}. To a key, a value is associated. Let&#39;s take some examples:
+ &amp;ldquo;John&amp;rdquo;:&amp;ldquo;+123456789&amp;rdquo; &amp;ldquo;12-34-5678&amp;rdquo;:&amp;ldquo;Jane&#39;s birth date&amp;rdquo;  Although the notion is quite simple to grasp, implementing a key-value store, not so much.</description>
+            <content type="html"><![CDATA[<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<p><img src="/images/20220701_V08_FINAL_hours.jpg" alt="Aniara meets Locus at Nefertiti">
+aa
+In this post, I will introduce the key-value store concept and compare the features of some of the well known of this kind of databases.
+In its essence, a key-value store can be reduced to a database containing pairs of data in the form of {key:value}.
+To a <em>key</em>, a <em>value</em> is associated.
+Let's take some examples:</p>
+<ul>
+<li>&ldquo;John&rdquo;:&ldquo;+123456789&rdquo;</li>
+<li>&ldquo;12-34-5678&rdquo;:&ldquo;Jane's birth date&rdquo;</li>
+</ul>
+<p>Although the notion is quite simple to grasp, implementing a key-value store, not so much.</p>
+<p>Let's delve into some of most used and well known key-value store:</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
